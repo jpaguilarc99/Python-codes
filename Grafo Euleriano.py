@@ -51,5 +51,3 @@ def euler(pdf):
   print("La cantidad de caminos encontrados es de: ", caminos)
 
 print(euler(grafo))
-
-
