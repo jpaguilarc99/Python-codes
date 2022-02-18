@@ -240,12 +240,3 @@ def decidir_invitar(peli: dict, edad_invitado: int, autorizacion_padres: bool)->
             permiso = True
             
         return permiso
-
-
-
-
-
-
-
-
-
