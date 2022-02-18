@@ -164,13 +164,3 @@ plt.title('Pronóstico próximos 300 días')
 plt.ylabel('Fp=(Prepago/Pago mínimo)')
 plt.xlabel('Días futuros')
 prediccion.to_csv('pronostico300dias.csv') ##Guardamos las predicciones obtenidas en un archivo .csv
-    
-
-
-
-
-
-
-
-
-
